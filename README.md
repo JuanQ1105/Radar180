@@ -14,7 +14,7 @@ Este repositorio contiene el código fuente y la documentación de un proyecto d
 
 ---
 
-## ⚙️ Diseño y Selección de Actuadores
+## ⚙️ Diseño y Selección de Motores
 
 Para el desarrollo del mecanismo de rotación del radar, se evaluaron tres alternativas distintas de motores. El objetivo principal fue lograr un emparejamiento exacto entre el ángulo físico de barrido y la representación gráfica en la pantalla:
 
