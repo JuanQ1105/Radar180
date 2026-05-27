@@ -46,7 +46,6 @@ El comportamiento del radar está definido por el código en Arduino IDE, el cua
 
 ## 🚀 Cómo usar este repositorio
 
-1. Clona el repositorio: `git clone https://github.com/TU_USUARIO/radar-ultrasonico-oled.git`
-2. Abre el archivo `src/radar_ultrasonico/radar_ultrasonico.ino` en el Arduino IDE.
-3. Asegúrate de tener instaladas las librerías `Adafruit_GFX`, `Adafruit_SSD1306` y `Servo`.
-4. Compila y sube el código a tu placa Arduino.
+1. Abre el archivo `src/radar_ultrasonico/radar_ultrasonico.ino` en el Arduino IDE.
+2. Asegúrate de tener instaladas las librerías `Adafruit_GFX`, `Adafruit_SSD1306` y `Servo`.
+3. Compila y sube el código a tu placa Arduino.
